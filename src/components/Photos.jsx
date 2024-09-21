@@ -8,9 +8,7 @@ import s4 from '../assets/3.jpg';
 import s5 from '../assets/4.jpg';
 import s6 from '../assets/5.jpg';
 import s7 from '../assets/6.jpg';
-// import s8 from '../assets/7.jpg';
-// import s9 from '../assets/s1.jpg';
-// import s10 from '../assets/s1.jpg';
+
 
 const Photos = () => {
     const [photoArr, setPhotoArr] = useState([
